@@ -1,6 +1,6 @@
 # academy-template-readme-profile
 
-# Oi, me chamo [Seu nome aqui] 👋
+# Oi, me chamo [Sergio Luiz dos Santos] 👋
 
 ### Sobre mim
 
